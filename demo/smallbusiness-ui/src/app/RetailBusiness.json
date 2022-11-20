@@ -1,0 +1,6374 @@
+[
+  {
+    "Name": "Wal-Mart Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Exxon Mobil",
+    "FIELD2": ""
+  },
+  {
+    "Name": "General Motors",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ford Motor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Enron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "General Electric",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Citigroup",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ChevronTexaco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Intl. Business Machines",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Philip Morris",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Verizon Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American International Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Electric Power",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Duke Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AT&T",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boeing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Paso",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Home Depot",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bank of America Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fannie Mae",
+    "FIELD2": ""
+  },
+  {
+    "Name": "J.P. Morgan Chase & Co.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kroger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cardinal Health",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Merck",
+    "FIELD2": ""
+  },
+  {
+    "Name": "State Farm Insurance Cos.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Reliant Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SBC Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hewlett-Packard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Morgan Stanley Dean Witter",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dynegy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McKesson",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sears Roebuck",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aquila",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Target",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Procter & Gamble",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Merrill Lynch",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AOL Time Warner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Albertson's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Berkshire Hathaway",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kmart",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Freddie Mac",
+    "FIELD2": ""
+  },
+  {
+    "Name": "WorldCom",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marathon Oil",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Costco Wholesale",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Safeway",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Compaq Computer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Johnson & Johnson",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Conoco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pfizer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "J.C. Penney",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MetLife",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mirant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dell Computer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Goldman Sachs Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Parcel Service",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Motorola",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allstate",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TXU",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dow Chemical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ConAgra",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Prudential Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PepsiCo",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wells Fargo",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Intel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "International Paper",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Delphi",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sprint",
+    "FIELD2": ""
+  },
+  {
+    "Name": "New York Life Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "E.I. du Pont de Nemours",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Georgia-Pacific",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Microsoft",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walt Disney",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aetna",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ingram Micro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lucent Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lockheed Martin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walgreen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bank One Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TIAA-CREF",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Phillips Petroleum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BellSouth",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Honeywell International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "UnitedHealth Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Viacom",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Supervalu",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PG&E Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alcoa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Express",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wachovia Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lehman Brothers Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cisco Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CVS",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lowe's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sysco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bristol-Myers Squibb",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Electronic Data Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Caterpillar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Coca-Cola",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Archer Daniels Midland",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AutoNation",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Qwest Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FedEx",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mass. Mutual Life Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pharmacia",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FleetBoston Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cigna",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AMR",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Loews",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Solectron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Johnson Controls",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sun Microsystems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "HCA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Visteon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sara Lee",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Washington Mutual",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tech Data",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Federated Department Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Raytheon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Xerox",
+    "FIELD2": ""
+  },
+  {
+    "Name": "U.S. Bancorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TRW",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Abbott Laboratories",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Northwestern Mutual",
+    "FIELD2": ""
+  },
+  {
+    "Name": "UAL",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Minnesota Mining & Mfg.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AmerisourceBergen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Coca-Cola Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fleming",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Emerson Electric",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Best Buy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rite Aid",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Publix Super Markets",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hartford Financial Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Exelon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nationwide",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Xcel Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Valero Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McDonald's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Weyerhaeuser",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kimberly-Clark",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Liberty Mutual Insurance Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "May Department Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Goodyear Tire & Rubber",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wyeth",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Occidental Petroleum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Household International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Delta Air Lines",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gap",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lear",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Northrop Grumman",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amerada Hess",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Halliburton",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Deere",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eastman Kodak",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CMS Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Circuit City Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cinergy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Anheuser-Busch",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Winn-Dixie Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Avnet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "WellPoint Health Networks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sunoco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Textron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Edison International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "General Dynamics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tenet Healthcare",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Union Pacific",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PacifiCare Health Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Farmland Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eli Lilly",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Waste Management",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Office Depot",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Williams",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Toys `R` Us",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oracle",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tyson Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Staples",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TJX",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dominion Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Computer Sciences",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Manpower",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Anthem",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allegheny Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Whirlpool",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Humana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southern",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marriott International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MBNA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arrow Electronics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Health Net",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marsh & McLennan",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Northwest Airlines",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Public Service Enterprise Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Schering-Plough",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Illinois Tool Works",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comcast",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Consolidated Edison",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Entergy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AES",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AFLAC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NiSource",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nike",
+    "FIELD2": ""
+  },
+  {
+    "Name": "UnumProvident",
+    "FIELD2": ""
+  },
+  {
+    "Name": "H.J. Heinz",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Colgate-Palmolive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Limited",
+    "FIELD2": ""
+  },
+  {
+    "Name": "John Hancock Financial Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Express Scripts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burlington Northern Santa Fe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Agilent Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National City Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fluor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Services Automobile Assn.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Continental Airlines",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cendant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "St. Paul Cos.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Guardian Life Ins. Co. of America",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kellogg",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Principal Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SCI Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bear Stearns",
+    "FIELD2": ""
+  },
+  {
+    "Name": "R.J. Reynolds Tobacco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ashland",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FPL Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Progress Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pepsi Bottling",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SunTrust Banks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dillard's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smurfit-Stone Container",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Anadarko Petroleum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Masco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "US Airways Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Genuine Parts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Texas Instruments",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PPG Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CSX",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Conseco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gillette",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sempra Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FirstEnergy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Clear Channel Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cenex Harvest States",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DTE Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aramark",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baxter International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chubb",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alltel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Calpine",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nextel Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kohl's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Progressive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Standard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boise Cascade",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KeyCorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Applied Materials",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eaton",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Capital One Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bank of New York Co.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Crown Cork & Seal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "EMC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "General Mills",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AdvancePCS",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Automatic Data Processing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Safeco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tricon Global Restaurants",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PNC Financial Services Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Newell Rubbermaid",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KeySpan",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Omnicom Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Northeast Utilities",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Plains All American Pipeline",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ArvinMeritor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oneok",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Avaya",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unocal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Interpublic Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Navistar International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Centex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Campbell Soup",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fifth Third Bancorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "First Data",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Premcor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lincoln National",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gannett",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sonic Automotive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Corning",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dean Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BB&T Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Auto Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Norfolk Southern",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Science Applications Intl.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Paccar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gateway",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Saks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lennar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Avista",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unisys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Owens-Illinois",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Avon Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Parker Hannifin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NCR",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smithfield Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rohm & Haas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Conectiv",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ServiceMaster",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PPL",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Air Products & Chemicals",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cummins",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Idacorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "State Street Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nordstrom",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Caremark Rx",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allied Waste Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southwest Airlines",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Medtronic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Providian Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "VF",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Federal-Mogul",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eastman Chemical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baker Hughes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pulte Homes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Apple Computer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dollar General",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fortune Brands",
+    "FIELD2": ""
+  },
+  {
+    "Name": "R.R. Donnelley & Sons",
+    "FIELD2": ""
+  },
+  {
+    "Name": "USA Networks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charles Schwab",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BJ's Wholesale Club",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ikon Office Solutions",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tribune",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TransMontaigne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tesoro Petroleum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Praxair",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Family Ins. Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Engelhard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sherwin-Williams",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Goodrich",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ryder System",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CNF",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Barnes & Noble",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Graybar Electric",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Countrywide Credit Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AutoZone",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mattel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "RadioShack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Owens Corning",
+    "FIELD2": ""
+  },
+  {
+    "Name": "W.W. Grainger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Adams Resources & Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pitney Bowes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dole Food",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ITT Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KB Home",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McGraw-Hill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "OfficeMax",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Park Place Entertainment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sierra Pacific Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Estee Lauder",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maytag",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hershey Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pinnacle West Capital",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dover",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Micron Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ameren",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Murphy Oil",
+    "FIELD2": ""
+  },
+  {
+    "Name": "D.R. Horton",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Willamette Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quantum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Golden West Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oxford Health Plans",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cablevision Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Healthsouth",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Foot Locker",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Administaff",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Black & Decker",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jabil Circuit",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mutual of Omaha Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rockwell Automation",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Golden State Bancorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Longs Drug Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Levi Strauss",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kelly Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NorthWestern",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cooper Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Computer Associates Intl.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comerica",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Temple-Inland",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lexmark International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nucor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hormel Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SPX",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Leggett & Platt",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nash Finch",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jones Apparel Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cox Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mellon Financial Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sanmina-SCI",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Regions Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Darden Restaurants",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pathmark Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amgen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MGM Mirage",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pittston",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Phelps Dodge",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Echostar Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Group 1 Automotive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AK Steel Holding",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Autoliv",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MeadWestvaco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Encompass Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Starwood Hotels & Resorts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CDW Computer Centers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jacobs Engineering Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "LTV",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charter Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Financial Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "York International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wisconsin Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Constellation Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Stationers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Clorox",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Advanced Micro Devices",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Steelcase",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fidelity National Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Peter Kiewit Sons'",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FMC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Owens & Minor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Avery Dennison",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maxtor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Danaher",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Energy East",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NTL",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Becton Dickinson",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Host Marriott",
+    "FIELD2": ""
+  },
+  {
+    "Name": "First American Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SouthTrust Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pacific LifeCorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harrah's Entertainment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ball",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Brunswick",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Family Dollar Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wesco International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ames Department Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kerr-McGee",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quest Diagnostics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smith International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Spartan Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "USA Education",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Interstate Bakeries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Roundy's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Scana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Liz Claiborne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mohawk Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Adelphia Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Big Lots",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Core-Mark International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Emcor Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Foster Wheeler",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Borders Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shopko Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AmSouth Bancorp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Puget Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tenneco Automotive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harley-Davidson",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Western Gas Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bethlehem Steel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jefferson-Pilot",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burlington Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allmerica Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "USG",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Yellow",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Northern Trust Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aid Association for Lutherans",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Performance Food Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "JDS Uniphase",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lyondell Chemical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Airborne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comdisco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NSTAR",
+    "FIELD2": ""
+  },
+  {
+    "Name": "OGE Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Staff Leasing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Enterprise Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PepsiAmericas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cooper Tire & Rubber",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Coventry Health Care",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Anixter International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Union Planters Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Armstrong Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Equity Office Properties",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amazon.Com",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lennox International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Axle & Mfg.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "C.H. Robinson Worldwide",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kindred Healthcare",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Devon Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sealed Air",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hilton Hotels",
+    "FIELD2": ""
+  },
+  {
+    "Name": "New York Times",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hughes Supply",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Vulcan Materials",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Universal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Auto-Owners Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Neiman Marcus",
+    "FIELD2": ""
+  },
+  {
+    "Name": "3Com",
+    "FIELD2": ""
+  },
+  {
+    "Name": "H&R Block",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Reebok International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ross Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Trigon Healthcare",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unified Western Grocers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Payless Shoesource",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TruServ",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pioneer-Standard Electronics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Knight-Ridder",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ace Hardware",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Rentals",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fisher Scientific International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hasbro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KPMG Consulting",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charter One Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Thermo Electron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Universal Health Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "A.G. Edwards",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Transocean Sedco Forex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rockwell Collins",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Solutia",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pactiv",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wackenhut",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pentair",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Roadway",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alliant Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Apache",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ruddick",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ryland Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Crompton",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lutheran Brotherhood",
+    "FIELD2": ""
+  },
+  {
+    "Name": "IMC Global",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Spherion",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Beverly Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marshall & Ilsley Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Guidant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Torchmark",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Manor Care",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Qualcomm",
+    "FIELD2": ""
+  },
+  {
+    "Name": "WPS Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boston Scientific",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Triad Hospitals",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PolyOne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Starbucks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TECO Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sovereign Bancorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pantry",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nacco Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stanley Works",
+    "FIELD2": ""
+  },
+  {
+    "Name": "NVR",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hercules",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sonoco Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stryker",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Telephone & Data Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Earthgrains",
+    "FIELD2": ""
+  },
+  {
+    "Name": "M & T Bank Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stater Bros. Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Citizens Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Genesis Health Ventures",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popular",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cincinnati Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Henry Schein",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Service Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nicor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AGCO",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unitrin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fleetwood Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Michaels Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "International Multifoods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Greetings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Reader's Digest Association",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Advance Auto Parts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Scientific-Atlanta",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Service Corp. International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Potomac Electric Power",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PetsMart",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alberto-Culver",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Penn Traffic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dura Automotive Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Brinker International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sabre Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "UGI",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tower Automotive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mandalay Resort Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Footstar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "USFreightways",
+    "FIELD2": ""
+  },
+  {
+    "Name": "First Tennessee National Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "U.S. Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Robert Half International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bowater",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Huntington Bancshares",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Timken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Commercial Metals",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CellStar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Exide Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wm. Wrigley Jr.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Adolph Coors",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burlington Coat Factory",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Phoenix Companies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Washington Post",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ADC Telecommunications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Constellation Brands",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bed Bath & Beyond",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Erie Insurance Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wendy's International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Old Republic International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McCormick",
+    "FIELD2": ""
+  },
+  {
+    "Name": "OM Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Molex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Louisiana-Pacific",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Franklin Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ecolab",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PNM Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BorgWarner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Broadwing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "L-3 Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Weatherford International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Precision Castparts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Convergys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "URS",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pennzoil-Quaker State",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Value City",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bemis",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kellwood",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Belk",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Analog Devices",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Whole Foods Market",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Peoples Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mail-Well",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Republic Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "La-Z-Boy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ryerson Tull",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chiquita Brands International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Consolidated Freightways",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Herman Miller",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Budget Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BJ Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Toll Brothers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Polo Ralph Lauren",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nabors Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MDU Resources Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pilgrim's Pride",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Laboratory Corp. of America",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tellabs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Western Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pep Boys-Manny, Moe & Jack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Equity Residential Properties",
+    "FIELD2": ""
+  },
+  {
+    "Name": "LandAmerica Financial Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Vectren",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cintas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Omnicare",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maxxam",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alaska Air Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American National Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allegheny Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Outback Steakhouse",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MDC Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sun Healthcare Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CenturyTel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Semiconductor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Swift Transportation",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CUNA Mutual Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harsco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hillenbrand Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wyndham International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kla-Tencor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MONY Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Fuel Gas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "J.B. Hunt Transport Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Williams-Sonoma",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Snap-On",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mariner Post-Acute Network",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Insight Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nortek",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PeopleSoft",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Synovus Financial Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zale",
+    "FIELD2": ""
+  },
+  {
+    "Name": "America West Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Affiliated Computer Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "E*Trade Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Simon Property Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "New Jersey Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Siebel Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Storage Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quanta Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zions Bancorp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Compuware",
+    "FIELD2": ""
+  },
+  {
+    "Name": "RPM",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bell Microproducts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "General Cable Corporation",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Volt Information Sciences",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Metaldyne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charming Shoppes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Weis Markets",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dollar Tree Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Beckman Coulter",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Protective Life",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CBRL Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Scholastic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harris",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Western Digital",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ingles Markets",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ABM Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "W.R. Berkley",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Silgan Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "WGL Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TravelCenters of America",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southern Union",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SunGard Data Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Casey's General Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Safeguard Scientifics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Brown-Forman",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CH2M Hill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walter Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Valspar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flowserve",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Teleflex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Trinity Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ohio Casualty",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Compass Bancshares",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Furniture Brands International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fiserv",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sentry Insurance Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DynCorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Frontier Oil",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alpine Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Corn Products International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Health Management Associates",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marsh Supermarkets",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lithia Motors",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Magellan Health Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Silicon Graphics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Metris",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carlisle",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lubrizol",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Intl. Flavors & Fragrances",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Freeport-McMoRan Copper & Gold",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jack in the Box",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Worthington Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Brightpoint",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Linens'n Things",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Collins & Aikman",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PSS World Medical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amerco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Terex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McLeodUSA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gold Kist",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rent A Center",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kennametal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mid Atlantic Medical Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Beazer Homes USA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Seaboard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Minnesota Life Ins.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hon Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Packaging Corp. of America",
+    "FIELD2": ""
+  },
+  {
+    "Name": "LSI Logic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dow Jones",
+    "FIELD2": ""
+  },
+  {
+    "Name": "WestPoint Stevens",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Equitable Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Diebold",
+    "FIELD2": ""
+  },
+  {
+    "Name": "W.R. Grace",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Brown Shoe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sequa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Potlatch",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Scotts Company",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Oilwell",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Primedia",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hovnanian Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southern States Coop.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Paychex",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hawaiian Electric Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Greenpoint Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harman Intl. Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bausch & Lomb",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Concord EFS",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cabot",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Energizer Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Community Health Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Integrated Electrical Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wallace Computer Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allergan",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Metals USA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "EGL",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Allete",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Reliance Steel & Aluminum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DST Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Viad",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Xilinx",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Raymond James Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Newmont Mining",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Vishay Intertechnology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "EOG Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Expeditors Intl of Washington",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DaVita",
+    "FIELD2": ""
+  },
+  {
+    "Name": "D&K Healthcare Resources",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Applera",
+    "FIELD2": ""
+  },
+  {
+    "Name": "UST",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flowers Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Airgas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Applied Industrial Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quintiles Transnational",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tiffany & Co",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ciena",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PerkinElmer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great Lakes Chemical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Millennium Chemicals",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Crane",
+    "FIELD2": ""
+  },
+  {
+    "Name": "StanCorp Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maxim Integrated Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Agway",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Noble Affiliates",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jo Ann Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lands' End",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cooper Cameron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Black Hills",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stilwell Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Perini",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Thomas & Betts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Imperial Sugar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MPS Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Champion Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Granite",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Commerce Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Systemax",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comfort Systems USA",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Greif Bros.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Astoria Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shaw Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Di Giorgio",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Equifax",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Legg Mason",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ACT Manufacturing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Level 3 Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "RGS Energy Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Universal Forest Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "World Fuel Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unova",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arkansas Best",
+    "FIELD2": ""
+  },
+  {
+    "Name": "GATX",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lam Research",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amkor Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pride International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Polaris Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Del Monte Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mercury General",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Martin Marietta Materials",
+    "FIELD2": ""
+  },
+  {
+    "Name": "US Oncology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Banknorth Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BMC Software",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ferro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Veritas Software",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arch Coal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CDI",
+    "FIELD2": ""
+  },
+  {
+    "Name": "GenCorp",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hibernia Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sierra Health Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Atmel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AIMCO",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great Plains Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "E.W. Scripps",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Banta",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Symbol Technologies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TMP Worldwide",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oshkosh Truck",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Unisource Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Atmos Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rock-Tenn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Teradyne",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Questar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Water Works",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CSK Auto",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CKE Restaurants",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Power Conversion",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Phillips-Van Heusen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cadence Design Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sports Authority",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pier 1 Imports",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fairchild Semiconductor Intl.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kemet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burlington Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dreyer's Grand Ice Cream",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dimon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stewart & Stevenson Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tecumseh Products",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Markel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southwest Gas",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Landstar System",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Advantica",
+    "FIELD2": ""
+  },
+  {
+    "Name": "National Rural Utilities Cooperative",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Trans World Entertainment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Metro-Goldwyn-Mayer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cytec Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Standard Pacific",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hollywood Entertainment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gentiva Health Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Eagle Outfitters",
+    "FIELD2": ""
+  },
+  {
+    "Name": "OneAmerica Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nvidia",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gemstar-TV Guide International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Acterna",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Abercrombie & Fitch",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Belo",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MGIC Investment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Toro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Knights of Columbus",
+    "FIELD2": ""
+  },
+  {
+    "Name": "St. Jude Medical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Novellus Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pro-Fac Cooperative",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Provident Financial Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "IMS Health",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gentek",
+    "FIELD2": ""
+  },
+  {
+    "Name": "IT Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carpenter Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Electronic Arts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Revlon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stein Mart",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hub Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "United Defense Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Briggs & Stratton",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hubbell",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Regis",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dun & Bradstreet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Petco Animal Supplies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Federated Mutual Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AnnTaylor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "First National of Nebraska",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DQE",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pacific Century Financial",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Deluxe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Benchmark Electronics",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amtran",
+    "FIELD2": ""
+  },
+  {
+    "Name": "H.B. Fuller",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Men's Wearhouse",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stewart Information Services",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Olin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Werner Enterprises",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comverse Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Varco International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Audiovox",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amica Mutual Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Milacron",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Intuit",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kimball International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "XO Communications",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Domino's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ocean Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Massey Energy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Texas Industries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Riverwood Holding",
+    "FIELD2": ""
+  },
+  {
+    "Name": "EarthLink",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ceridian",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Union Central Life",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Phar-Mor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Watsco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Foamex International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CMGI",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pall",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Harleysville Mutual Insurance",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tektronix",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oglethorpe Power",
+    "FIELD2": ""
+  },
+  {
+    "Name": "IDT",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Adobe Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alleghany",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Genzyme",
+    "FIELD2": ""
+  },
+  {
+    "Name": "MasTec",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Genuity",
+    "FIELD2": ""
+  },
+  {
+    "Name": "North Fork Bancorp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Grey Global",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ivax",
+    "FIELD2": ""
+  },
+  {
+    "Name": "AMC Entertainment",
+    "FIELD2": ""
+  },
+  {
+    "Name": "On Semiconductor",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Software Spectrum",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Viasystems Group",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Georgia Gulf",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Forest Laboratories",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Perot Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Trump Hotels & Casino Resorts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "FelCor Lodging",
+    "FIELD2": ""
+  },
+  {
+    "Name": "DPL",
+    "FIELD2": ""
+  },
+  {
+    "Name": "International Game Technology",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blyth",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TCF Financial Corp.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sealy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Standard Register",
+    "FIELD2": ""
+  },
+  {
+    "Name": "eMerge Interactive",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Handleman",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Goody's Family Clothing",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Alexander & Baldwin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Daisytek International",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Timberland",
+    "FIELD2": ""
+  },
+  {
+    "Name": "American Management Systems",
+    "FIELD2": ""
+  },
+  {
+    "Name": "C.R. Bard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PC Connection",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walmart",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walmart US",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sam's Club",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CVS incl. Target",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Amazon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Albertsons",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Apple incl. Online",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Apple US Retail Stores",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Costco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walgreen Boots",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Publix",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ahold",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Macy's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Aldi",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dollar Tree",
+    "FIELD2": ""
+  },
+  {
+    "Name": "HEB",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sears Holdings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sears US",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Delhaize",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Meijer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wakefern",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Whole Foods",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BJ's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Seven & I",
+    "FIELD2": ""
+  },
+  {
+    "Name": "JC Penney",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ross",
+    "FIELD2": ""
+  },
+  {
+    "Name": "L Brands",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Menards",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Southeastern Grocers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Health Mart",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hy-Vee",
+    "FIELD2": ""
+  },
+  {
+    "Name": "O'Reilly",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wegmans",
+    "FIELD2": ""
+  },
+  {
+    "Name": "QVC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SONIC Drive In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dairy Queen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carl's Jr",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arby's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burger King",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Filippi's Pizza Grotto",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sbarro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "In-N-Out Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Casey's General Store",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Hut",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Church's Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chipotle Mexican Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chick-Fil-A",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bell",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boston Market",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baskin-Robbins",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ameci Pizza & Pasta",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ak Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SUBWAY",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Little Caesars Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Barro's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KFC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KFC - Kentucky Fried Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Long John Silver's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fat Patty's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boys Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Culver's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr. Hero",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Topper's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SONIC Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Panda Express",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Whataburger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wendy's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Golden Chick",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Firehouse Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Einstein Bros Bagels",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Band Box Diner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cupie's Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quiznos",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jersey Mike's Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tom's Drive In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Del Taco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boston Burger Company",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Romas Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Krystal",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bob Evans",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Checkers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hardee's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Panera Bread",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wienerschnitzel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pony Express To Go",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popeyes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sonic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gambino's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Primo's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Simple Simon's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rally's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CASA Mexicana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "West Point Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jimmy John's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McAlister's Deli",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Barberitos",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cook Out",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mrs. Fields",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Mayo",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tacconelli's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Guerrazzi's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gus's Carryout",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Moe's Southwest Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Siam Fusion",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Spangles",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bueno",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Steak Escape",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Togo's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Players Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr. Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "B.GOOD",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Casa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sam's Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "SUBWAY��",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bojangles' Famous Chicken 'n Biscuits",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Back Yard Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Steak N Shake",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Waffle House",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pei Wei",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Raising Cane's Chicken Fingers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sumo Steaks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Five Guys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dragon Dragon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Crown Fried Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tumby's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Round Table Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Italo's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Creperie",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Qdoba Mexican Eats",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fat Mo's Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charley's Grilled Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Miss Katie's Diner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hunan Gardens",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chronic Tacos",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shawarma Kebab",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wild Willy's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jake's Wayback Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Pollo Loco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Mama",
+    "FIELD2": ""
+  },
+  {
+    "Name": "King of Wings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pretzel Time",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sarku Japan",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ivan's Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quiznos Sub",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fox's Pizza Den",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Toppers Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fuddruckers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mandarin Garden",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hernandez Mexican Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Taquito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Four Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Penn Station East Coast Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Domino's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Glorious Foods Gourmet to go & Catering",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Schlotzsky's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chicken Express",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Big House Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The New Chalet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blackjack Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gyromania Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jerry's Subs & Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mc Donalds",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Yoshinoya",
+    "FIELD2": ""
+  },
+  {
+    "Name": "China Garden",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mama's Fried Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Little Q Hot Pot",
+    "FIELD2": ""
+  },
+  {
+    "Name": "China Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Pub",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burger Basket",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Grande Italian Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lobster Hut",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ben and Jerry's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Time",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr. Hoagie",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fazzari's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arni's Crawfordsville",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco John's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Inn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cousin's Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arctic Circle",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fosters Freeze",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Starbucks Coffee",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Barn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carl's Jr.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dunkin' Donuts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bob's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rico's Pizza & Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "B's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "White Castle",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pepperjax Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Pizza Company",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Joe's Crab Shack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Steak 'n Shake",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Sandwich Place",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Papa John's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Little Caesar's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maid-rite",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Frates Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jim's Steaks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gourmet Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Villa Italian Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jacks N Joe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wingstop",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Beef Villa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tanuki Sushi Bar and Garden",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Old Carolina Barbecue Company",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flame Broiler",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kow Thai Take Out",
+    "FIELD2": ""
+  },
+  {
+    "Name": "iSushi",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shangri-la Chinese Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blackies Hotdog Stand",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chun Wah Kam Noodle Factory",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Italian Pizzeria Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sakana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Port of Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bubba's Texas Burger Shack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ani's Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Farmer Boys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jamba Juice",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hot Lips Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rubio's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Milk Street Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chicken Mary's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fuku",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Little Caesars",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Primo Hoagies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "De Afghanan Kabob House",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Raising Cane's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Moe's Burger Joint",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bobby's Burger Palace",
+    "FIELD2": ""
+  },
+  {
+    "Name": "W.G. Grinders",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Foster's Freeze",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Caseys Carry Out Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tastee Freez",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Loving Hut",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Capriotti's Sandwich Shop",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Italian Village Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mustard Seed",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Saladworks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jim's Steakout",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charo Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Huddle House",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great Wall Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Luby's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Big Island Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "My Daddy's Pizza & Grille",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boddie Noell Enterprises Inc",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Roma Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cafe Paris",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Abruzzi Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bistro To Go",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arthur Treacher's Fish & Chips",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blimpie",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tony Wang's Chinese Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "D & M Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Danielle Inc",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smithfield's Chicken 'n Bar-b-q",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Krispy Krunchy Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hardee's/red Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lacey's On The Hill Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jack in the Box -",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gangnam Style Korean Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Red Baron Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Which Wich",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Pro",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cottage Inn Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Grandy's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Runza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eudici's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wolf River Diner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Extreme Pita",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Picnic Basket",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popeyes Louisiana Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Natraj's Tandoori",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Acropolis Gyro Palace",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bennidito's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dick's Hamburgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pick Up Stix",
+    "FIELD2": ""
+  },
+  {
+    "Name": "B Good",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Cabana",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Peach Garden",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pollo Tropical",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dominick's Italian Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "St. Clair Broiler",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baja Fresh Mexican Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fatburger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charlie's Pizzeria",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Salad Creations",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Price's Chicken Coop",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jollibee",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lilly's Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Guys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sakura Japanese Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Low Chinese American Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boomer's Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Johnny's Wife's Place",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pita's Republic",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Comet Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hot Dog on a Stick",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boardwalk Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Henny Penny Family Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dominion Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Christo's Original",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cook St. Helena",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Golden Dragon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Batter Up",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Quizno's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "ShopHouse Southeast Asian Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mignano Bros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Backyard Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gold Star Chili",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cluck-U Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Local Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jon Smith Subs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fox's Gourmet Delicatessen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great Wraps",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carvel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lin's Garden",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pretzel Maker",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Penguin Point",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Capri Italian Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chicken Inn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "King Wah",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Regions Bank",
+    "FIELD2": ""
+  },
+  {
+    "Name": "7-Eleven",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KFC/AW",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shake Shack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McDonalds",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bojangles",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bell / KFC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arby's - Closed",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shell",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carl's Jr. / Green Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Shamus's Sandwich Shoppe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Long John Silvers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fajita Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "George's Gyros Spot 2",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lakewood Ranch Baptist Church",
+    "FIELD2": ""
+  },
+  {
+    "Name": "China Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Grille",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Good Guys Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charleys Philly Steaks",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Islands Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Arch at McDonald's Campus Office Building",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Buona Vita",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rick's Drive In Out",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Johnson's Popcorn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popeyes Chicken Biscuits",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boloco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wolf's Dairy Queen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sweet Magnolia's Cafe Bakery",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hardee's / Red Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great American Hamburger Pie Co",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Golden Harvest Chinese Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Flame Broiler",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Penn's Thai Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rally's Hamburgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Long John Silver's / AW",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mcdonalds Whitehouse",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Papa Gino's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Captain D's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burger King/Popeyes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KFC/Taco Bell",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carl's Jr / Green Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bob Evans Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Original",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Old Country Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Arbys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fazoli's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Los Cotijas Taco Shop",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hardees",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Photo's Hot Dogs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr Hero",
+    "FIELD2": ""
+  },
+  {
+    "Name": "T-Mobile",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Marathon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jimmy Johns",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Errandbug Fast Restaurant Delivery",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Legendz",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lion's Choice",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Adobe Cantina Salsa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Orange Julius",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kasa's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Dog Pit",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Great Bend Taco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Riviera D'Italia",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Charlie's Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burrito Bros.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dunkin Donuts",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Best Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Steele Pier Hotdogs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wendy's Valenti Management",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Skyline Chili",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tropicana Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "VeganBurg",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smashburger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Moe's Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Vista Drive In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Burrito Loco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "China City",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Boston Road Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blake's Lotaburger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Belleria Pizzeria",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pal's Sudden Service",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Capri Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Angelina's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tiffin",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baker's Drive-thru",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chanello's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "High Tech Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Parkside Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "D'Angelo Grilled Sandwiches",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dairy Heaven",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cobani Gyro Kebab",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zaxby's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Au Bon Pain",
+    "FIELD2": ""
+  },
+  {
+    "Name": "East of Edens",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chipotle",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Grand China Chinese Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Del Mar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pizza Pipeline",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Richard's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nino's Pizzarama",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Corner Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Maki Fresh",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fat Boy Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flying J",
+    "FIELD2": ""
+  },
+  {
+    "Name": "China Bowl Take Out Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Extreme Pita",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Git-It-N-Git",
+    "FIELD2": ""
+  },
+  {
+    "Name": "GD Bro Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hometown Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ryan's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Smoothie King",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Famous Dave's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sunrise Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zankou Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rascal's Teriyaki Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ay Jalisco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BURGERFI",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Rallys",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zaxby's Chicken Fingers & Buffalo Wings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Gyros Express",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Super Wings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Roche Bros.",
+    "FIELD2": ""
+  },
+  {
+    "Name": "TheMINT Gastropub",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Auntie Anne's Pretzels",
+    "FIELD2": ""
+  },
+  {
+    "Name": "California Tortilla",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Thai Delight",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bristol 45 Diner",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sheetz",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Frankies",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Togi's Sub Station",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Citizen Burger Bar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tropical Smoothie Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Papa Joe's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "HiBoy Drive-in",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Ranchito Taco Shop",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bush's Chicken",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hilton Boston Logan Airport",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Festival Eatery",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Patrick's on Third",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mason's Famous Lobster Rolls",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burger House",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pollo Campero",
+    "FIELD2": ""
+  },
+  {
+    "Name": "All About Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nathan's Famous",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Swinging Door",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Long John Silvers / A&W",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wetzel's Pretzels",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Clambake Seafood Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "BeanThru",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bell/KFC",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cafe Zona Rosa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Papa Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Checker's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chinatown Inn",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kum & Go",
+    "FIELD2": ""
+  },
+  {
+    "Name": "PDQ",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ray J's American Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "New York Pizza Department",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fashion Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Qdoba Mexican Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tam's Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "CD's Wings",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McDonald's of Rolesville",
+    "FIELD2": ""
+  },
+  {
+    "Name": "A&W/Long John Silvers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Captain D's Seafood",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wawa",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popeyes Chicken & Biscuits",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Westchester Burger Company",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Raising Canes",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Panda Express Innovation Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chicken Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jim Bob's Chicken Fingers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Country Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Petro's Chili & Chips",
+    "FIELD2": ""
+  },
+  {
+    "Name": "California Chicken Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Blue Coast Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lake Trout 2",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Happy Dragon",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flaming Grill and Buffet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Oscar's Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mooney's Ice Cream Store",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cozumel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Cremo Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Baker's Drive Thru",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jalsa Indian Fast Food",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Copper Oven Artisan Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "La Hacienda Mexican Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Flushing A",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Halo Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Garden Catering",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ocean Empire Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kismet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Miguel's Jr",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mickey's Gyros & Ribs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Pilot Travel Center",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fratellos Hot Dogs",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taco Bell/Pizza Hut",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Burger King��",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Fast Eddie's MOAB",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Lupo's Char-Pit",
+    "FIELD2": ""
+  },
+  {
+    "Name": "A's Ace Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Original Tommy's Hamburgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wienerschitzel",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jack's Goal Line Stand",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bucky's Family Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Little Italy",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sam's Pizza Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hobo's Korner Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mangia Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Carl's Jr. / The Green Burrito",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jason's Deli",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Andy's Frozen Custard",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Portillo's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Johnny Rockets",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Taqueria",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Umami Burger",
+    "FIELD2": ""
+  },
+  {
+    "Name": "King Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Five Guys Burgers And Fries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "KFC/Long John Silvers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Zio's Italian Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Auntie Anne's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Walmart Supercenter",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Jimmy's Grotto",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Eegee's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Earth Fare",
+    "FIELD2": ""
+  },
+  {
+    "Name": "B&D Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Nick's Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "90 Miles Cuban Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Tonys Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sesame Burgers & Beer",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Braum's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Hon Lin Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Popeye's Louisiana Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "McDonalds's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mah's Garden Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chicago Pizza With A Twist",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dairy Queen (Treat Only)",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Five Guys Burgers Fries",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Megs Drive In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Hotdog Shoppe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kumagoro Fine Japanese Restaurant and Sushi Bar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wingstop Restaurant",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Whipper's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kim's Oriental Kitchen",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Chinatown Express",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Old Mill Crab House",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr Taco",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Surfside Burger Shack",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The 50's Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Papa J's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Wise Guys A Chicago Eatery",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sonic America's Drive-In",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Heff's Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Pollo Regio",
+    "FIELD2": ""
+  },
+  {
+    "Name": "El Sombrero",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Genghis Grill",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Palio's Pizza Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ly's Cafe",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Poki Roll",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Sub Conscious",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bad Daddy's Burger Bar",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Kosta's Gyros",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Bell's Pizza",
+    "FIELD2": ""
+  },
+  {
+    "Name": "The Hat",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Don & Millie's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Ben & Jerry's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Mr. Gyros Greek Food & Pastry",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Legends Burgers",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Plato's Closet",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Stoko's",
+    "FIELD2": ""
+  },
+  {
+    "Name": "Dunkin'",
+    "FIELD2": ""
+  }
+]
