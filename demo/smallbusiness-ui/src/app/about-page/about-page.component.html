@@ -34,31 +34,139 @@
     <!-- ROUTER OUTLET -->
     <router-outlet></router-outlet>
 
+    <!-- WHERE IT ALL BEGAN -->
     <div class="container-fluid p-5 bg-light text-dark">
-      <h1 style="font-variant: small-caps">where it all began...</h1>
+      <h1 style="font-variant: small-caps">Where it all began...</h1>
+      <br>
+
+      <!-- INSPIRATIONAL QUOTE -->
+      <div class="card">
+        <div class="card-header">
+          Inspirational Quote
+        </div>
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>Say it ain't so, I will not go. Turn the lights off, carry me home</p>
+            <footer class="blockquote-footer"><cite title="Band">Blink-182</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+
     </div>
 
-    <ngb-carousel>
-      <ng-template ngbSlide>
-        <div class="picsum-img-wrapper">
-          <img src="assets/cybersecurity-aerial-far.jpg" alt="Random first slide" />
-        </div>
-        <div class="carousel-caption">
-          <h3>ESL Global Cybersecurity Institute</h3>
-          <p>Rochester Institute of Technology</p>
-        </div>
-      </ng-template>
-      <ng-template ngbSlide>
-        <div class="picsum-img-wrapper">
-          <img src="assets/cybersecurity-bldg.jpg" alt="Random third slide" />
-        </div>
-        <div class="carousel-caption">
-          <h3>M&T Hackathon 2022</h3>
-<!--          <p>2nd Annual Meet & Hack Hackathon</p>-->
-        </div>
-      </ng-template>
-    </ngb-carousel>
+    <!-- CAROUSEL -->
+    <div class="bg-light justify-content-center">
+      <ngb-carousel>
+        <ng-template ngbSlide>
+          <div class="picsum-img-wrapper">
+            <img src="assets/cybersecurity-aerial-far.jpg" alt="Random first slide" />
+          </div>
+          <div class="carousel-caption">
+            <h3>ESL Global Cybersecurity Institute</h3>
+            <p>Rochester Institute of Technology</p>
+          </div>
+        </ng-template>
+        <ng-template ngbSlide>
+          <div class="picsum-img-wrapper">
+            <img src="assets/cybersecurity-bldg.jpg" alt="Random third slide" />
+          </div>
+          <div class="carousel-caption">
+            <h3>M&T Hackathon 2022</h3>
+          </div>
+        </ng-template>
+      </ngb-carousel>
+    </div>
 
+    <!-- ABOUT ASB -->
+    <div class="container-fluid p-5 bg-light text-dark">
+      <h1 style="font-variant: small-caps">About All the Small Businesses</h1>
+
+      <p>
+
+        All the Small Businesses, established in November 2022, is a
+        product of the M&T Meet & Hack Hackathon that was hosted at Rochester
+        Institute of Technology. The idea arose when a team of college students
+        wanted to know how many small businesses were local to their area. With
+        the growing desire to support small businesses, we wanted to know
+        where we could find all of the local owned coffee shops, clothing stores,
+        restaurants, and other businesses that are near any specified general
+        location. With the help of mentors, friends, and Stack Overflow, we were
+        able to bring our idea to fruition.
+
+      </p>
+
+    </div>
+
+    <!-- MEET THE TEAM CARDS-->
+      <div class="container-fluid p-5 bg-light text-dark">
+        <h1 style="font-variant: small-caps">Meet the Team!</h1>
+
+        <div class="row row-cols-1 row-cols-md-2">
+
+          <div class="col mb-4">
+            <!-- ADRIAN CARD -->
+            <div class="card">
+              <img src="assets/Adrian.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Adrian Burgos</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                  About Adrian-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Adrian</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- MELISSA CARD -->
+            <div class="card">
+              <img src="assets/Melissa.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Melissa Burisky</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                   About Melissa-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Melissa</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- MAKENZIE CARD -->
+            <div class="card">
+              <img src="assets/Makenzie.JPG" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Makenzie Dorsey</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                  About Makenzie-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Makenzie</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- KASIM CARD -->
+            <div class="card">
+              <img src="assets/Kasim.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Kasim O'Meally</h5>
+                <h6 class="card-subtitle mb-2 text-muted">2nd Year Web & Mobile Major</h6>
+                <p class="card-text">
+                  <!--                   About Melissa-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Kasim</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+<!--    </div>-->
 
 
     <script src="https://cdn.jsnpm idelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
