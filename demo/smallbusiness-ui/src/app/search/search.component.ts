@@ -35,9 +35,10 @@ export class SearchComponent {
    * @param longitude user's longitude
    * @param type the type of business they want to find (ex: coffee)
    */
-  getLocalBusinesses(latitude: number, longitude: number, type: string): void { // Observable<Business>[]
+  getLocalBusinesses(latitude: string, longitude: string, type: string): void { // Observable<Business>[]
     //return fetch(this.apiURL + type + this.userLocation + latitude + ',' + longitude + this.key)
     //  .then(response => response.json()).then(.json => console.log(json))
+    this.localCompanies = new Array<Business>()
     console.log(this.apiURL + type + this.userLocation);
     console.log(latitude + ',' + longitude + this.key)
     var results = Array<string>
