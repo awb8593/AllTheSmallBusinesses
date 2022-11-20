@@ -36,14 +36,23 @@
   <router-outlet></router-outlet>
 
 
-  <div class="container p-5" style="height:150rem">
-    <h3 style="font-family: 'Playfair Display', serif;">Enter Your Location</h3>
-    <input type="number" id="latitude" name="latitude" placeholder="latitude" #latitude style="font-family: 'Montserrat', sans-serif;">
-    <input type="number" id="longitude" name="longitude" placeholder="longitude" #longitude style="font-family: 'Montserrat', sans-serif;">
-    <input type="text" id="type" name="type" placeholder="type" #type style="font-family: 'Montserrat', sans-serif;">
 
-
-    <button  style="font-family: 'Playfair Display', serif;" (click)="getLocalBusinesses(latitude.value, longitude.value, type.value)">Search</button>
+  <h3 style="font-family: 'Playfair Display', serif;">Enter Your Location</h3>
+  <input type="number" id="latitude" name="latitude" placeholder="latitude" #latitude style="font-family: 'Montserrat', sans-serif;">
+  <input type="number" id="longitude" name="longitude" placeholder="longitude" #longitude style="font-family: 'Montserrat', sans-serif;">
+  <input list="types" id="type" name="type" placeholder="type" #type style="font-family: 'Montserrat', sans-serif;">
+  <datalist id="types">
+    <option value="Coffee" style="font-family: 'Montserrat', sans-serif;">
+    <option value="Drinks" style="font-family: 'Montserrat', sans-serif;">
+    <option value="Bar" style="font-family: 'Montserrat', sans-serif;">
+    <option value="Restaurant" style="font-family: 'Montserrat', sans-serif;">
+    <option value="Beer" style="font-family: 'Montserrat', sans-serif;">
+    <option value="Tea" style="font-family: 'Montserrat', sans-serif;">
+    <option value="BarsGrillsAndPubs" style="font-family: 'Montserrat', sans-serif;">
+    <option value="BelgianRestaurants" style="font-family: 'Montserrat', sans-serif;">
+    <option value="BuffetRestaurants" style="font-family: 'Montserrat', sans-serif;">
+  </datalist>
+  <button  style="font-family: 'Playfair Display', serif;" (click)="getLocalBusinesses(latitude.value, longitude.value, type.value)">Search</button>
 
     <div class="row row-cols-1 row-cols-md-3 mb-3">
       <div *ngFor="let business of localCompanies">

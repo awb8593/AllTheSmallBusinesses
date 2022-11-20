@@ -20,7 +20,9 @@
     "module": "ES2022",
     "useDefineForClassFields": false,
     "types": [
-      "@angular/localize"
+      "@angular/localize",
+      "jest", "node","mocha"
+      //'jest' or 'mocha' to the types field in your tsconfig.
     ],
     "lib": [
       "ES2022",
