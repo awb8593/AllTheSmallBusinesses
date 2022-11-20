@@ -13,7 +13,7 @@ export class BusinessService {
 
   constructor(private http: HttpClient) { }
 
-  getLocalBusinesses(latitude: number, longitude: number, type: string) {
+  getLocalBusinesses(latitude: string, longitude: string, type: string) {
     return this.http.get(this.apiURL+type+"&userLocation="+latitude+","+longitude+"&key=AnR4Khwxo4KxF35XmhzvhQZghYq8NqhqvB1Akf8kWkOj4c3kzINYy2GbQP1YkSpD")
   }
 
