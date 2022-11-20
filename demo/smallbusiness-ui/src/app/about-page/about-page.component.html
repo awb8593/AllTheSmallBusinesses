@@ -1,33 +1,192 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Home</title>
-  <link href="about-page.component.css" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<!DOCTYPE html>
+<html>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="about-page.component.css" type="text/css" rel="stylesheet">
 
-</head>
+
+  </head>
+
+  <body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-sm bg-dark">
+      <div class="container-fluid">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link text-light" routerLink="">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-light" routerLink="/about-page">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-light" routerLink="/contact-us">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- ROUTER OUTLET -->
+    <router-outlet></router-outlet>
+
+    <!-- WHERE IT ALL BEGAN -->
+    <div class="container-fluid p-5 bg-light text-dark">
+      <h1 style="font-variant: small-caps">Where it all began...</h1>
+      <br>
+
+      <!-- INSPIRATIONAL QUOTE -->
+      <div class="card">
+        <div class="card-header">
+          Inspirational Quote
+        </div>
+        <div class="card-body">
+          <blockquote class="blockquote mb-0">
+            <p>Say it ain't so, I will not go. Turn the lights off, carry me home</p>
+            <footer class="blockquote-footer"><cite title="Band">Blink-182</cite></footer>
+          </blockquote>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CAROUSEL -->
+    <div class="bg-light justify-content-center">
+      <ngb-carousel>
+        <ng-template ngbSlide>
+          <div class="picsum-img-wrapper">
+            <img src="assets/cybersecurity-aerial-far.jpg" alt="Random first slide" />
+          </div>
+          <div class="carousel-caption">
+            <h3>ESL Global Cybersecurity Institute</h3>
+            <p>Rochester Institute of Technology</p>
+          </div>
+        </ng-template>
+        <ng-template ngbSlide>
+          <div class="picsum-img-wrapper">
+            <img src="assets/cybersecurity-bldg.jpg" alt="Random third slide" />
+          </div>
+          <div class="carousel-caption">
+            <h3>M&T Hackathon 2022</h3>
+          </div>
+        </ng-template>
+      </ngb-carousel>
+    </div>
+
+    <!-- ABOUT ASB -->
+    <div class="container-fluid p-5 bg-light text-dark">
+      <h1 style="font-variant: small-caps">About All the Small Businesses</h1>
+
+      <p>
+
+        All the Small Businesses, established in November 2022, is a
+        product of the M&T Meet & Hack Hackathon that was hosted at Rochester
+        Institute of Technology. The idea arose when a team of college students
+        wanted to know how many small businesses were local to their area. With
+        the growing desire to support small businesses, we wanted to know
+        where we could find all of the local owned coffee shops, clothing stores,
+        restaurants, and other businesses that are near any specified general
+        location. With the help of mentors, friends, and Stack Overflow, we were
+        able to bring our idea to fruition.
+
+      </p>
+
+    </div>
+
+    <!-- MEET THE TEAM CARDS-->
+      <div class="container-fluid p-5 bg-light text-dark">
+        <h1 style="font-variant: small-caps">Meet the Team!</h1>
+
+        <div class="row row-cols-1 row-cols-md-2">
+
+          <div class="col mb-4">
+            <!-- ADRIAN CARD -->
+            <div class="card">
+              <img src="assets/Adrian.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Adrian Burgos</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                  About Adrian-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Adrian</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- MELISSA CARD -->
+            <div class="card">
+              <img src="assets/Melissa.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Melissa Burisky</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                   About Melissa-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Melissa</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- MAKENZIE CARD -->
+            <div class="card">
+              <img src="assets/Makenzie.JPG" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Makenzie Dorsey</h5>
+                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <p class="card-text">
+<!--                  About Makenzie-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Makenzie</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col mb-4">
+            <!-- KASIM CARD -->
+            <div class="card">
+              <img src="assets/Kasim.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Kasim O'Meally</h5>
+                <h6 class="card-subtitle mb-2 text-muted">2nd Year Web & Mobile Major</h6>
+                <p class="card-text">
+                  <!--                   About Melissa-->
+                </p>
+                <a href="#" class="btn btn-secondary">Meet Kasim</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
 
 
+    <!-- FOOTER -->
+    <div class="containter-fluid text-center text-white p-5 bg-dark">
 
-<!-- NAVBAR -->
-<nav class="navbar navbar-expand-sm bg-dark">
-  <div class="container-fluid">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link text-light" routerLink="">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-light" routerLink="/about-page">About</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-light" routerLink="/contact-us">Contact Us</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-<router-outlet></router-outlet>
+      <div>
+        <i class="p-2 fa fa-facebook-square" style="font-size:36px; color:white"></i>
+        <i class="p-2 fa fa-twitter" style="font-size:36px; color:white"></i>
+        <i class="p-2 fa fa-instagram" style="font-size:36px; color:white"></i>
+        <i class="p-2 fa fa-github" style="font-size:36px; color:white"></i>
+        <i class="p-2 fa fa-linkedin" style="font-size:36px; color:white"></i>
+      </div>
+      <div class="text-center p-2">
+        © 2022 Copyright
+      </div>
 
-<p>about-page works!</p>
+    </div>
+
+
+    <script src="https://cdn.jsnpm idelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>
