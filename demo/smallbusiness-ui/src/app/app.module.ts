@@ -7,6 +7,7 @@ import { AboutPageComponent } from './about-page/about-page.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
 import {HttpClient, HttpClientModule} from "@angular/common/http";
 import { SearchComponent } from './search/search.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { SearchComponent } from './search/search.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    NgbModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
