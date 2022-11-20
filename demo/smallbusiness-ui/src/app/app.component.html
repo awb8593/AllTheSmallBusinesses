@@ -35,6 +35,16 @@
 
   <h1>Hello World</h1>
 
+  <button (click)="getLocalBusinesses(40.333708, -75.637408, 'coffee')">Test API Request</button>
+
+  <div *ngFor="let business of localCompanies">
+    <div class="businessView">
+      {{business.name}}
+    </div>
+  </div>
+
+
+
   </body>
 
 
