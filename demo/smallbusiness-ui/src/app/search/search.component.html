@@ -1,33 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>ASB | Home</title>
-  <link href="search.component.css" rel="stylesheet">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
-
-
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ASB | Home</title>
+    <link href="search.component.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+  </head>
 
 <body>
 
   <!-- NAVBAR -->
   <nav class="navbar navbar-expand-sm bg-dark">
+    <a class="navbar-brand nav-item text-light" href="" style="font-family: 'Playfair Display', serif; font-style: italic; margin-left:25px">All the Small Businesses</a>
     <div class="container-fluid">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-light" routerLink="">Home</a>
+          <a class="nav-link text-light" routerLink="" style="font-family: 'Montserrat', sans-serif;">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" routerLink="/about-page">About</a>
+          <a class="nav-link text-light" routerLink="/about-page" style="font-family: 'Montserrat', sans-serif;">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-light" routerLink="/contact-us">Contact Us</a>
+          <a class="nav-link text-light" routerLink="/contact-us" style="font-family: 'Montserrat', sans-serif;">Contact Us</a>
         </li>
       </ul>
     </div>
@@ -35,21 +36,62 @@
   <router-outlet></router-outlet>
 
 
-  <h3>Enter Your Location</h3>
-  <input type="number" id="latitude" name="latitude" placeholder="latitude" #latitude>
-  <input type="number" id="longitude" name="longitude" placeholder="longitude" #longitude>
-  <input type="text" id="type" name="type" placeholder="type" #type>
+  <div class="container p-5" style="height:150rem">
+    <h3 style="font-family: 'Playfair Display', serif;">Enter Your Location</h3>
+    <input type="number" id="latitude" name="latitude" placeholder="latitude" #latitude style="font-family: 'Montserrat', sans-serif;">
+    <input type="number" id="longitude" name="longitude" placeholder="longitude" #longitude style="font-family: 'Montserrat', sans-serif;">
+    <input type="text" id="type" name="type" placeholder="type" #type style="font-family: 'Montserrat', sans-serif;">
 
 
-  <button (click)="getLocalBusinesses(latitude.value, longitude.value, type.value)">Search</button>
+    <button  style="font-family: 'Playfair Display', serif;" (click)="getLocalBusinesses(latitude.value, longitude.value, type.value)">Search</button>
 
-  <div *ngFor="let business of localCompanies">
-    <div class="businessView">
-      {{business.name}}
+    <div class="row row-cols-1 row-cols-md-3 mb-3">
+      <div *ngFor="let business of localCompanies">
+        <div class="businessView">
+
+          <!-- CARD CREATION -->
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+<!--              <img class="card-img-top" src={{business.image}} alt="Business Header Image">-->
+              <div class="card-body">
+                <h5 class="card-title" style="font-family: 'Playfair Display', serif;">{{business.name}}</h5>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item" style="font-family: 'Montserrat', sans-serif;">{{business.streetAddress}}</li>
+                  <li class="list-group-item" style="font-family: 'Montserrat', sans-serif;">{{business.phone}}</li>
+                  <li class="list-group-item"></li> <!-- creates line break under business.phone  -->
+                </ul>
+                <div class="text-center">
+                  <a style="font-family: 'Montserrat', sans-serif;" href={{business.website}} class="btn btn-secondary">Learn More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <br>
+
+        </div>
+      </div>
+
     </div>
   </div>
 
+<!--&lt;!&ndash; FOOTER &ndash;&gt;-->
+<!--<div class="containter-fluid text-center text-white p-5 bg-dark" style="position: absolute; bottom:0; width: 100%">-->
 
+<!--  <div>-->
+<!--    <i class="p-2 fa fa-facebook-square" style="font-size:36px; color:white"></i>-->
+<!--    <i class="p-2 fa fa-twitter" style="font-size:36px; color:white"></i>-->
+<!--    <i class="p-2 fa fa-instagram" style="font-size:36px; color:white"></i>-->
+<!--    <i class="p-2 fa fa-github" style="font-size:36px; color:white"></i>-->
+<!--    <i class="p-2 fa fa-linkedin" style="font-size:36px; color:white"></i>-->
+<!--  </div>-->
+<!--  <div class="text-center p-2" style="font-family: 'Montserrat', sans-serif;">-->
+<!--    © 2022 Copyright-->
+<!--  </div>-->
+
+<!--</div>-->
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 
 </body>
 

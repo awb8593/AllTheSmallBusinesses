@@ -1,0 +1,12 @@
+:root {
+  --blue-bell: #A09ABC;
+  --lilac: #B6A6CA;
+  --languid-lav: #D5CFE1;
+  --web-lav: #E1DEE9;
+  --silver-pink: #D4BEBE;
+  --light-grey: #E6E6E6;
+}
+
+body, html {
+  background-color: #E1DEE9;
+}
