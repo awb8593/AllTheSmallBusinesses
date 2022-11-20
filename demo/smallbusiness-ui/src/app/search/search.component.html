@@ -38,7 +38,18 @@
   <h3>Enter Your Location</h3>
   <input type="number" id="latitude" name="latitude" placeholder="latitude" #latitude>
   <input type="number" id="longitude" name="longitude" placeholder="longitude" #longitude>
-  <input type="text" id="type" name="type" placeholder="type" #type>
+  <input list="types" id="type" name="type" placeholder="type" #type>
+  <datalist id="types">
+    <option value="Coffee">
+    <option value="Drinks">
+    <option value="Bar">
+    <option value="Restaurant">
+    <option value="Beer">
+    <option value="Tea">
+    <option value="BarsGrillsAndPubs">
+    <option value="BelgianRestaurants">
+    <option value="BuffetRestaurants">
+  </datalist>
 
 
   <button (click)="getLocalBusinesses(latitude.value, longitude.value, type.value)">Search</button>
