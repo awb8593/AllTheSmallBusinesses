@@ -12,7 +12,7 @@ import * as Console from "console";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  
+  title = 'smallbusiness-ui'
   httpOptions = {
     headers: new HttpHeaders({ 'Content-Type': 'application/json' })
   }
