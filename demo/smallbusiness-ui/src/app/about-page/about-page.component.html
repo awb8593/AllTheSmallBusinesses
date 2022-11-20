@@ -7,9 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ASB | About Us</title>
+
+    <!-- ICONS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="about-page.component.css" type="text/css" rel="stylesheet">
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
 
   </head>
 
@@ -17,7 +24,7 @@
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-sm bg-dark">
       <div class="container-fluid">
-        <ul class="navbar-nav">
+        <ul class="navbar-nav" style="font-family: 'Montserrat', sans-serif;">
           <li class="nav-item">
             <a class="nav-link text-light" routerLink="">Home</a>
           </li>
@@ -36,18 +43,18 @@
 
     <!-- WHERE IT ALL BEGAN -->
     <div class="container-fluid p-5 text-dark">
-      <h1 style="font-variant: small-caps">Where it all began...</h1>
+      <h1 style="font-family: 'Playfair Display', serif;">Where it all began...</h1>
       <br>
 
       <!-- INSPIRATIONAL QUOTE -->
       <div class="card">
         <div class="card-header">
-          Inspirational Quote
+          <span style="font-family: 'Playfair Display', serif;">Inspirational Quote</span>
         </div>
         <div class="card-body">
           <blockquote class="blockquote mb-0">
-            <p>Say it ain't so, I will not go. Turn the lights off, carry me home</p>
-            <footer class="blockquote-footer"><cite title="Band">Blink-182</cite></footer>
+            <p style="font-family: 'Montserrat', sans-serif;">Say it ain't so, I will not go. Turn the lights off, carry me home</p>
+            <footer class="blockquote-footer" style="font-family: 'Playfair Display', serif;"><cite title="Band">Blink-182</cite></footer>
           </blockquote>
         </div>
       </div>
@@ -55,15 +62,15 @@
     </div>
 
     <!-- CAROUSEL -->
-    <div class="bg-light justify-content-center">
+    <div class="bg-light justify-content-center w-75" style="margin: 0 auto;">
       <ngb-carousel>
         <ng-template ngbSlide>
           <div class="picsum-img-wrapper">
-            <img src="assets/cybersecurity-aerial-far.jpg" alt="Random first slide" />
+            <img src="assets/cybersecurity-aerial-far.jpg" alt="Random first slide"/>
           </div>
           <div class="carousel-caption">
-            <h3>ESL Global Cybersecurity Institute</h3>
-            <p>Rochester Institute of Technology</p>
+            <h3 style="font-family: 'Montserrat', sans-serif;">ESL Global Cybersecurity Institute</h3>
+            <p style="font-family: 'Montserrat', sans-serif;">Rochester Institute of Technology</p>
           </div>
         </ng-template>
         <ng-template ngbSlide>
@@ -71,7 +78,7 @@
             <img src="assets/cybersecurity-bldg.jpg" alt="Random third slide" />
           </div>
           <div class="carousel-caption">
-            <h3>M&T Hackathon 2022</h3>
+            <h3 style="font-family: 'Montserrat', sans-serif;">M&T Hackathon 2022</h3>
           </div>
         </ng-template>
       </ngb-carousel>
@@ -79,9 +86,9 @@
 
     <!-- ABOUT ASB -->
     <div class="container-fluid p-5 text-dark bg-white">
-      <h1 style="font-variant: small-caps">All the Small Businesses — About Us</h1>
+      <h1 style="font-family: 'Playfair Display', serif;">All the Small Businesses — <span style="font-family: 'Montserrat', sans-serif;">About Us</span></h1>
 
-      <p>
+      <p style="font-family: 'Montserrat', sans-serif; font-size: 1.25rem">
 
         All the Small Businesses, established in November 2022, is a
         product of the M&T Meet & Hack Hackathon that was hosted at Rochester
@@ -102,7 +109,7 @@
 
     <!-- MEET THE TEAM CARDS-->
       <div class="container-fluid p-5 text-dark">
-        <h1 style="font-variant: small-caps">Meet the Team!</h1>
+        <h1 style="font-family: 'Playfair Display', serif;">Meet the Team!</h1>
 
         <div class="row row-cols-1 row-cols-md-2">
 
@@ -111,12 +118,12 @@
             <div class="card">
               <img src="assets/Adrian.jpg" class="card-img-top" alt="...">
               <div class="card-body bg-dark">
-                <h5 class="card-title text-light">Adrian Burgos</h5>
-                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <h5 class="card-title text-light" style="font-family: 'Playfair Display', serif;">Adrian Burgos</h5>
+                <h6 class="card-subtitle mb-2 text-muted" style="font-family: 'Montserrat', sans-serif; font-weight: bold">3rd Year Computer Science Major</h6>
                 <p class="card-text">
 <!--                  About Adrian-->
                 </p>
-                <a href="https://www.linkedin.com/in/adrian-burgos-02a613182/" target="_blank" class="btn btn-secondary">Meet Adrian</a>
+                <a href="https://www.linkedin.com/in/adrian-burgos-02a613182/" target="_blank" class="btn btn-secondary" style="font-family: 'Montserrat', sans-serif;">Meet Adrian</a>
               </div>
             </div>
           </div>
@@ -126,12 +133,12 @@
             <div class="card">
               <img src="assets/Melissa.jpg" class="card-img-top" alt="...">
               <div class="card-body bg-dark">
-                <h5 class="card-title text-light">Melissa Burisky</h5>
-                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <h5 class="card-title text-light" style="font-family: 'Playfair Display', serif;">Melissa Burisky</h5>
+                <h6 class="card-subtitle mb-2 text-muted" style="font-family: 'Montserrat', sans-serif; font-weight: bold">3rd Year Computer Science Major</h6>
                 <p class="card-text">
 <!--                   About Melissa-->
                 </p>
-                <a href="https://www.linkedin.com/in/melissa-burisky-7b24bb230/" target="_blank" class="btn btn-secondary">Meet Melissa</a>
+                <a href="https://www.linkedin.com/in/melissa-burisky-7b24bb230/" target="_blank" class="btn btn-secondary" style="font-family: 'Montserrat', sans-serif;">Meet Melissa</a>
               </div>
             </div>
           </div>
@@ -141,30 +148,29 @@
             <div class="card">
               <img src="assets/Makenzie.JPG" class="card-img-top" alt="...">
               <div class="card-body bg-dark">
-                <h5 class="card-title text-light">Makenzie Dorsey</h5>
-                <h6 class="card-subtitle mb-2 text-muted">3rd Year Computer Science Major</h6>
+                <h5 class="card-title text-light" style="font-family: 'Playfair Display', serif;">Makenzie Dorsey</h5>
+                <h6 class="card-subtitle mb-2 text-muted" style="font-family: 'Montserrat', sans-serif; font-weight: bold">3rd Year Computer Science Major</h6>
                 <p class="card-text">
 <!--                  About Makenzie-->
                 </p>
-                <a href="https://www.linkedin.com/in/makenziedorsey/" target="_blank" class="btn btn-secondary">Meet Makenzie</a>
+                <a href="https://www.linkedin.com/in/makenziedorsey/" target="_blank" class="btn btn-secondary" style="font-family: 'Montserrat', sans-serif;">Meet Makenzie</a>
               </div>
             </div>
           </div>
 
-          <div class="col mb-4">
-            <!-- KASIM CARD -->
-            <div class="card">
-              <img src="assets/Kasim.jpg" class="card-img-top" alt="...">
-              <div class="card-body bg-dark">
-                <h5 class="card-title text-light">Kasim O'Meally</h5>
-                <h6 class="card-subtitle mb-2 text-muted">2nd Year Web & Mobile Major</h6>
-                <p class="card-text">
-                  <!--                   About Melissa-->
-                </p>
-                <a href="https://www.linkedin.com/in/kasimomeally/" target="_blank" class="btn btn-secondary">Meet Kasim</a>
-              </div>
-            </div>
-          </div>
+<!--          <div class="col mb-4">-->
+<!--            &lt;!&ndash; KASIM CARD &ndash;&gt;-->
+<!--            <div class="card">-->
+<!--              <img src="assets/Kasim.jpg" class="card-img-top" alt="...">-->
+<!--              <div class="card-body bg-dark">-->
+<!--                <h5 class="card-title text-light">Kasim O'Meally</h5>-->
+<!--                <h6 class="card-subtitle mb-2 text-muted">2nd Year Web & Mobile Major</h6>-->
+<!--                <p class="card-text">-->
+<!--                </p>-->
+<!--                <a href="https://www.linkedin.com/in/kasimomeally/" target="_blank" class="btn btn-secondary">Meet Kasim</a>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
 
         </div>
       </div>
@@ -180,7 +186,7 @@
         <i class="p-2 fa fa-github" style="font-size:36px; color:white"></i>
         <i class="p-2 fa fa-linkedin" style="font-size:36px; color:white"></i>
       </div>
-      <div class="text-center p-2">
+      <div class="text-center p-2" style="font-family: 'Montserrat', sans-serif;">
         © 2022 Copyright
       </div>
 
