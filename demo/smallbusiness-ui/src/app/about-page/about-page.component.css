@@ -1,0 +1,36 @@
+:root {
+  --blue-bell: #A09ABC;
+  --lilac: #B6A6CA;
+  --languid-lav: #D5CFE1;
+  --web-lav: #E1DEE9;
+  --silver-pink: #D4BEBE;
+  --light-grey: #E6E6E6;
+}
+
+body {
+  background-color: #E1DEE9;
+}
+
+bg-blue-bell {
+  background-color: #A09ABC;
+}
+
+bg-lilac {
+  background-color: #B6A6CA;
+}
+
+bg-languid-lilac {
+  background-color: #D5CFE1;
+}
+
+bg-web-lav {
+  background-color: #E1DEE9;
+}
+
+bg-silver-pink {
+  background-color: #D4BEBE;
+}
+
+bg-light-grey {
+  background-color: #E6E6E6;
+}
