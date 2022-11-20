@@ -29,5 +29,29 @@
   </div>
 </nav>
 <router-outlet></router-outlet>
+<main class="m-3">
+  <h1 class="text-center">Contact Us!</h1>
+  <form>
+    <div class="form-group">
+      <label for="inputName">Name</label>
+      <input type="name" class="form-control" id="inputName" aria-describedby="inputName" placeholder="Enter your name">
+    </div>
+    <br>
 
-<p>contact-us works!</p>
+    <div class="form-group">
+      <label for="inputEmail">Email address</label>
+      <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter email">
+      <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <br>
+
+    <div class="form-group">
+      <label for="inputMessage">Share your message!</label>
+      <textarea class="form-control" id="inputMessage" rows="3"></textarea>
+    </div>
+    <br>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+  </form>
+</main>
+
